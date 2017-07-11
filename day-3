@@ -1,0 +1,41 @@
+Learning Journal
+day 3
+
+Blog/Portfolio
+- My portfolio is going pretty good. I feel like I'm not quite fully understanding all the assignment, but I could just be overlooking.
+My wireframes are done, and I need to convert them to html css. 
+
+- The meat and potatos of css is not fonts and color, but is layout. 
+
+- Constructor should include name, description, language, software, image, and link.
+
+- scaffold = eslint, gitignore, readme, reset.css, git config.
+
+Code Review
+
+
+
+SMACSS
+
+- scalable and modular architecture in CSS.
+  - BASE - div, html, header, main, footer, h1-6, p, background colors, text-align
+  
+  - LAYOUT - class/id based selectors
+  
+  - MODULE - inside of footer, article styles, 
+  
+  *JS - class  CSS - id
+  
+  - State - transitions, hovers, slides, etc.
+  
+  - Theme - seasonal decorations.
+
+
+Jquery
+  1. jQuery cheatsheet
+  
+  
+  2. Manipulation & Traversals
+  
+  
+  3 .Method chaining
