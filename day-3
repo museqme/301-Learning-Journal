@@ -34,8 +34,47 @@ SMACSS
 Jquery
   1. jQuery cheatsheet
   
+  - oscarotero.com/jquery
   
   2. Manipulation & Traversals
+  
+  SELECTORS
+  
+  elements
+    $('h1')
+    $('div')
+    $('p')
+    $('ul')
+  // js equivalent - document.getElementByTagName('div') //
+  
+  class
+    $('.className')
+    // js equivalent - document.getElementByClass('container') 
+       var liEls = $('.container')
+    //
+  
+  id
+    $('#home')
+    //document.getElementById('home')
+    
+  Parent/Child
+    $('header li')
+    
+  parent > child
+    $('ul > li')
+    $('.nav-list > li')
+    
+  Attributes
+    $('input[value=""]')
+    $('input'[type="number"])
+    
+    
+  SCRIPT
+  // Vender scripts //
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    
+  // Local Scripts //
+    <script src="text/javascript" src="app.js"></script>
   
   
   3 .Method chaining
