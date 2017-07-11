@@ -68,6 +68,41 @@ Jquery
     $('input[value=""]')
     $('input'[type="number"])
     
+  // get text of the matched elements //
+    $('#home').text()
+  
+  // set text o the matched elements //
+    $('#home').text('I was here...')
+    
+  // get html of the matched elements //
+    $('#main-content').html()
+    
+  // set html of the matched elements //
+    $('#main-content').html('<h2>I was here..')
+    
+ // get the data-category attribute of a li //
+   $('p').data('rank')
+   
+ //set the data-category attribute of a li //
+   $('p').data('rank', '2')
+   
+ // create and append an element to the DOM //
+   $('#main-content').append($('<section></section>))
+   
+ // remove an element for the DOM //
+   $('#main-content').remove()
+   var savedContent = $('#main-content').remove()
+   
+ //empty the selected element of all HTML //
+ $('#main-content').empty()
+ 
+ // run a command as soon as the DOM loads //
+ $('document').ready(function(){
+ 
+ });
+ 
+ 
+    
     
   SCRIPT
   // Vender scripts //
