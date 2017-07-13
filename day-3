@@ -1,4 +1,4 @@
-Learning Journal
+<h1>Learning Journal</h1>
 day 3
 
 Blog/Portfolio
@@ -11,11 +11,7 @@ My wireframes are done, and I need to convert them to html css.
 
 - scaffold = eslint, gitignore, readme, reset.css, git config.
 
-Code Review
-
-
-
-SMACSS
+<h2>SMACSS</h2>
 
 - scalable and modular architecture in CSS.
   - BASE - div, html, header, main, footer, h1-6, p, background colors, text-align
@@ -31,14 +27,14 @@ SMACSS
   - Theme - seasonal decorations.
 
 
-Jquery
+<h2>Jquery</h2>
   1. jQuery cheatsheet
   
   - oscarotero.com/jquery
   
   2. Manipulation & Traversals
   
-  SELECTORS
+  <h2>SELECTORS</h2>
   
   elements
     $('h1')
@@ -104,7 +100,7 @@ Jquery
  
     
     
-  SCRIPT
+  <h2>SCRIPT</h2>
   // Vender scripts //
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     
